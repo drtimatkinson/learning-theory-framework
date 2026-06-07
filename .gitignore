@@ -1,0 +1,10 @@
+# Private working notes — kept local, not published
+notes.md
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.bak
+*~
+.vscode/
+.idea/
