@@ -15,7 +15,9 @@ Laypeople who want to think carefully about learning — for themselves, for the
 
 ## Honest construction risks
 
-The framework's claims carry forward three risks: the author is trained in computer science rather than a relevant field, the author made heavy use of generative AI to search for and summarize hundreds of papers, and none of the deductions made in this framework has a purpose-built study evaluating its claims. Several audits from different directions have been made to reduce these risks, but some residual risk remains.
+The framework's claims carry forward three risks. First, the author is trained in computer science rather than a relevant field. Second, the author made heavy use of generative AI to search for and summarize hundreds of papers — a method whose known hazard is fabricated citations or misrepresented findings; to reduce this, the framework was put through multiple audits run from different directions plus automated verification, with manual spot-checks where the AI's summaries did not add up, though the citations have not yet been systematically verified one-by-one against their primary sources. Third, none of the deductions made in this framework has a purpose-built study evaluating its claims. Some residual risk remains on all three.
+
+This document is a thinking aid for navigating the literature, not professional educational, psychological, or medical advice; for decisions about a specific learner, consult a qualified professional.
 
 ## How to read
 
