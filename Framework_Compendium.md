@@ -2,6 +2,10 @@
 
 A reference artifact for working memory. Contains substantive summaries (1-3 sentences) of every claim, principle, and structural element. No proof structure, no citations, no examples — enough to grok the substance, not the support.
 
+**What this is useful for:** fast orientation and recall — scanning the shape of the framework, locating the claim you need, or refreshing memory without re-reading the full document. It is a derived, deliberately lossy summary, not a standalone statement of the framework.
+
+**Authority — the framework governs.** Where this compendium and `Working_Learning_Framework_v0_2.md` disagree in substance, wording, or nuance, the framework document is authoritative and the compendium is treated as out of date. The compendium carries none of the grounding (provenance markers, citations, conditions, derivation type) that makes a claim load-bearing; consult the framework before relying on, quoting, or acting on anything here.
+
 For full content, see `Working_Learning_Framework_v0_2.md` in this directory.
 
 **Note on scope:** this compendium captures stable framework beliefs only. Transient working memory (active audits, deferred items, observed patterns) is kept in the author's private notes and is not part of the published repository.
