@@ -19,7 +19,7 @@ The framework's claims carry forward three risks: the author is trained in compu
 
 ## How to read
 
-- `Working_Learning_Framework_v0_2.md` is the main document (~815 lines), structured as: Stance, Historical and epistemic notes, Claim prefix conventions, Theory claims (T), Practice claims (P), References.
+- `Working_Learning_Framework.md` is the main document (~815 lines), structured as: Stance, Historical and epistemic notes, Claim prefix conventions, Theory claims (T), Practice claims (P), References.
 - `Framework_Compendium.md` is a condensed reference: a 1–3 sentence summary of every claim, with no proof structure, citations, or examples — useful for orientation before reading the full document.
 
 ## Engagement

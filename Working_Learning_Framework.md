@@ -1,4 +1,4 @@
-# Working Learning Framework for Homeschool Practice, v0.2
+# Working Learning Framework for Homeschool Practice
 
 A self-consistent set of principles for thinking about learning, drawn from cognitive science and educational psychology literature. Two layers: theory (claims about how learning works) and practice (claims about how to affect learning). Specific advice on how to operationalize P-claims for engineering or application is out of scope and will be handled later in a separate document.
 

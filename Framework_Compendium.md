@@ -4,15 +4,15 @@ A reference artifact for working memory. Contains substantive summaries (1-3 sen
 
 **What this is useful for:** fast orientation and recall — scanning the shape of the framework, locating the claim you need, or refreshing memory without re-reading the full document. It is a derived, deliberately lossy summary, not a standalone statement of the framework.
 
-**Authority — the framework governs.** Where this compendium and `Working_Learning_Framework_v0_2.md` disagree in substance, wording, or nuance, the framework document is authoritative and the compendium is treated as out of date. The compendium carries none of the grounding (provenance markers, citations, conditions, derivation type) that makes a claim load-bearing; consult the framework before relying on, quoting, or acting on anything here.
+**Authority — the framework governs.** Where this compendium and `Working_Learning_Framework.md` disagree in substance, wording, or nuance, the framework document is authoritative and the compendium is treated as out of date. The compendium carries none of the grounding (provenance markers, citations, conditions, derivation type) that makes a claim load-bearing; consult the framework before relying on, quoting, or acting on anything here.
 
-For full content, see `Working_Learning_Framework_v0_2.md` in this directory.
+For full content, see `Working_Learning_Framework.md` in this directory.
 
 **Note on scope:** this compendium captures stable framework beliefs only. Transient working memory (active audits, deferred items, observed patterns) is kept in the author's private notes and is not part of the published repository.
 
 **Convention: [implies]** — this marker flags content that is derived from the framework as an implication rather than stated literally in the framework document. The compendium's purpose is to help summarize both explicit claims and load-bearing implicit claims; the marker separates the two so I don't accidentally treat implications as if they were stated framework content. **Cap: two `[implies]` per claim.** When a third would be added, options are: drop a less-useful existing implies, merge multiple implies into one tighter formulation, or recognize the new content is substantive enough to graduate to framework proper.
 
-**Convention: claim titles are verbatim.** Each claim's **bold title** matches its title in the full framework document character-for-character (the title is the stable identifier that joins the two documents). Only the *body* is compressed here. The light `[type]` tags after compendium titles (e.g. `[execution]`) and the `→ operationalizes...` pointers are not part of the title; derivation type, operationalization mapping, citations, and traceability all live in the full text — consult Working_Learning_Framework_v0_2.md if a session needs them.
+**Convention: claim titles are verbatim.** Each claim's **bold title** matches its title in the full framework document character-for-character (the title is the stable identifier that joins the two documents). Only the *body* is compressed here. The light `[type]` tags after compendium titles (e.g. `[execution]`) and the `→ operationalizes...` pointers are not part of the title; derivation type, operationalization mapping, citations, and traceability all live in the full text — consult Working_Learning_Framework.md if a session needs them.
 
 This compendium is regenerated periodically as the framework evolves. Last regenerated: this session (full name-drop audit pass + T9 restructure + T9b addition + P1a creation + P3 trim + P5 dual-tag + P8b creation + P14 family removal + observation/strain provenance removal + theory gaps section deletion + T4 added + compendium-to-framework title sync, fixing stale T7a and T10 titles).
 
