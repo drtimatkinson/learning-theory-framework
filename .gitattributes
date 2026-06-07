@@ -1,0 +1,5 @@
+# Normalize line endings: store text as LF in the repo, check out native.
+* text=auto
+
+# Markdown is the whole project — keep it diff-friendly.
+*.md text
