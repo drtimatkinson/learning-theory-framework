@@ -6,7 +6,7 @@ A self-consistent set of principles for thinking about learning, drawn from cogn
 
 ## Who this is for
 
-Laypeople who want to think carefully about learning — for themselves, for their children, for students, for anyone they're trying to help. Comfortable with research citations and document-length reading. The framework's goal is to make the relevant literature accessible without requiring a degree in cognitive science or educational psychology.
+Laypeople who want to think carefully about learning — for themselves, for their children, for students, for anyone they're trying to help. Comfortable with research citations and document-length reading. The framework's goal was to help the author digest a large amount of literature in a field not his own. The author provides it in the hopes it will help others interested in understanding learning navigate the basics.
 
 ## Who this isn't for
 
