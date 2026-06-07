@@ -1,5 +1,7 @@
 # Working Learning Framework
 
+*By Timothy Atkinson, Ph.D*
+
 A self-consistent set of principles for thinking about learning, drawn from cognitive science and educational psychology literature. Two layers: theory claims about how learning works, and practice claims about how to affect learning.
 
 ## Who this is for
@@ -22,7 +24,7 @@ The framework's claims carry forward three risks: the author is trained in compu
 
 ## Engagement
 
-Issues welcome. Productive criticism takes the form: "claim X is wrong because [citation]" or "claim X conflicts with established finding Y." The framework will be updated as substantive issues are identified.
+The contact channel is this repository's [GitHub Issues](../../issues) — opening one needs only a GitHub account. Productive criticism takes the form: "claim X is wrong because [citation]" or "claim X conflicts with established finding Y." The framework will be updated as substantive issues are identified.
 
 ## License
 
