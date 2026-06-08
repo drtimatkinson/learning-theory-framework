@@ -726,7 +726,7 @@ Burnout protective factors identified in the literature (Sukamto et al. 2026 [89
 
 [66] G. D. Logan, "Toward an instance theory of automatization," *Psychological Review*, vol. 95, no. 4, pp. 492-527, 1988. *Foundational paper proposing accumulated instances as the mechanism for automaticity development. Performance shifts from algorithm-based execution to memory-retrieval-based execution as instances accumulate. Cited for T15 as alternative theoretical mechanism (compatible with ACT-R but differing in computational details) for how integration develops through practice.*
 
-[67] R. M. Hardwick, S. Caspers, S. B. Eickhoff, and S. P. Swinnen, "Neural correlates of action: Comparing meta-analyses of imagery, observation, and execution," *Neuroscience & Biobehavioral Reviews*, vol. 94, pp. 31–44, 2018, doi: 10.1016/j.neubiorev.2018.08.003. *Reference for neuroscience grounding of T15: brain region involvement shifts as skills automate, with reduced prefrontal cortex activity and increased basal ganglia and motor region activity for motor skills. Already cited as [57] for T7a; re-cited here for T15's neuroscience grounding.*
+[67] A. Floyer-Lea and P. M. Matthews, "Changing brain networks for visuomotor control with increased movement automaticity," *Journal of Neurophysiology*, vol. 92, no. 4, pp. 2405–2412, 2004, doi: 10.1152/jn.01092.2003. *fMRI study of motor skill learning: as performance becomes automatic, activity in prefrontal and other cortical regions progressively decreases while activity in subcortical motor regions (putamen/basal ganglia, thalamus, cerebellum) increases. Cited for T15's claim that brain-region involvement shifts as skills automate.*
 
 [68] *(intentional gap; duplicate of [13], removed during verification.)*
 
