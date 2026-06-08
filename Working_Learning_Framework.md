@@ -14,7 +14,7 @@ The only legitimate criticism the framework accepts is "you have not validated t
 
 ## 1. Historical and epistemic notes
 
-The framework started as a computer scientist's attempt to rectify folk science with empirical work, drawing from 91 cited works across cognitive science, educational psychology, behavioral genetics, and the learning sciences. Early versions had Broadwell's four stages of competence and ZPD front and center, but as the framework evolved the author realized these are engineering shortcuts used to help laymen like himself simplify extremely complex science. This has since shaped the framework's view that some folk theories survive because they do real engineering work, simplifying decisions for non-experts, even when their mechanistic framing is imprecise. Decision-making support was given its own P-claim to emphasize the author's learning journey.
+The framework started as a computer scientist's attempt to rectify folk science with empirical work, drawing from 91 cited works across cognitive science, educational psychology, behavioral genetics, and the learning sciences. Early versions had Broadwell's four stages of competence and the folk version of ZPD front and center, but as the framework evolved the author realized these are engineering shortcuts used to help laymen like himself simplify extremely complex science. This has since shaped the framework's view that some folk theories survive because they do real engineering work, simplifying decisions for non-experts, even when their mechanistic framing is imprecise. Decision-making support was given its own P-claim to emphasize the author's learning journey.
 
 The framework's claims carry forward three risks. First, the author is trained in computer science rather than a relevant field. Second, the author made heavy use of generative AI to search for and summarize hundreds of papers — a method whose known hazard is fabricated citations or misrepresented findings; to reduce this, the framework was put through multiple audits run from different directions plus automated verification, with manual spot-checks where the AI's summaries did not add up, though the citations have not yet been systematically verified one-by-one against their primary sources. Third, none of the deductions made in this framework has a purpose-built study evaluating its claims. Some residual risk remains on all three.
 
@@ -68,8 +68,6 @@ Claims about how learning works. The standard here is defensibility against the 
 **Cognitive Load Theory** [1], [2]: working memory imposes a binding constraint on learning. Material is intrinsically harder when more elements must be held and related simultaneously (element interactivity). Instructional design either focuses limited capacity on relevant elements or wastes it on irrelevant ones; the former supports learning, the latter hinders it.
 
 **Skill acquisition theory** [3]: procedures become fluent and eventually automatized. Used as foundational reference for fluency and automatization claims. Folk-pedagogical phase models [4] are not used in the theory layer; they appear only in the practice layer (Stage binning) as decision-support vocabulary.
-
-**Sociocultural development** [5]: a zone bounded below by independent capability and above by capability under guidance. The popular interpretation in which scaffolded performance today predicts independent performance tomorrow does not survive close reading [6]. The bounded-zone intuition is retained; the predictive claim is declined.
 
 **Memory and forgetting research** [8], [9]: foundation for retrieval practice and spacing. Ebbinghaus (1885) [8] established the forgetting curve — steep initial forgetting that flattens over time. Cepeda et al. (2006) [9] meta-analyzed 254 effect sizes across distributed-practice studies and found robust retention gains for spaced over massed practice across delays from 14 days to 350 days.
 
@@ -602,9 +600,9 @@ Burnout protective factors identified in the literature (Sukamto et al. 2026 [89
 
 [4] M. Broadwell, "Teaching for learning (XVI)," *The Gospel Guardian*, 1969. *Cited as structural source; folk-pedagogical, not directly empirically validated, but consistent with [3].*
 
-[5] L. S. Vygotsky, *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press, 1978.
+[5] *(intentional gap; reference removed — the framework is silent on the Vygotskian sociocultural/ZPD account, which operates at the learner–teacher dyad and would need its own framework to treat faithfully; the practice layer's scaffolding content is grounded in worked-examples and cognitive-apprenticeship literature instead.)*
 
-[6] S. Chaiklin, "The zone of proximal development in Vygotsky's analysis of learning and instruction," in *Vygotsky's Educational Theory in Cultural Context*, A. Kozulin et al., Eds. Cambridge University Press, 2003.
+[6] *(intentional gap; reference removed alongside [5] when the sociocultural-foundations note was dropped — Chaiklin's ZPD-interpretation critique is no longer cited.)*
 
 [7] *(intentional gap; reference removed during citation audit — Smagorinsky 2011 concerns Vygotsky's psychology of art and *perezhivanie*, not the zone of proximal development; the ZPD-interpretation point it was cited for is fully supported by Chaiklin [6].)*
 
