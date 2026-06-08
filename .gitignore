@@ -1,6 +1,9 @@
 # Private working notes — kept local, not published
 notes.md
 
+# Citation-audit working artifact (transparency record kept local for now)
+citation-audit.md
+
 # OS / editor cruft
 .DS_Store
 Thumbs.db
@@ -8,3 +11,8 @@ Thumbs.db
 *~
 .vscode/
 .idea/
+
+# Local paper archive (downloaded OA PDFs + extracted text) — local only
+papers/
+Claude-handoff-notes.md
+Framework_Docket.md
