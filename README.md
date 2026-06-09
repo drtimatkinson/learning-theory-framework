@@ -1,6 +1,6 @@
 # Working Learning Framework
 
-*By Timothy Atkinson, Ph.D*
+*By Timothy Atkinson, Ph.D (Computer Science)*
 
 A self-consistent set of principles for thinking about learning, drawn from cognitive science and educational psychology literature. Two layers: theory claims about how learning works, and practice claims about how to affect learning.
 
